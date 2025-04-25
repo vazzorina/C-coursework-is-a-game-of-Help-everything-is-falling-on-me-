@@ -1,0 +1,64 @@
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\game.exe.config
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\game.exe
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\game.pdb
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\OpenTK.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\System.Buffers.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\System.Memory.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\OpenTK.pdb
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\OpenTK.xml
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\System.Buffers.xml
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\System.Memory.xml
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\obj\Debug\game.Form1.resources
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\obj\Debug\game.csproj.CopyComplete
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\obj\Debug\game.exe
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\obj\Debug\game.pdb
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\Interop.WMPLib.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\obj\Debug\Interop.WMPLib.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\game\obj\Debug\game.csproj.ResolveComReference.cache
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\game.exe.config
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\game.exe
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\game.pdb
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\OpenTK.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\System.Buffers.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\System.Memory.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\OpenTK.pdb
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\OpenTK.xml
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\System.Buffers.xml
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\System.Memory.xml
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\Interop.WMPLib.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\obj\Debug\Interop.WMPLib.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\obj\Debug\game.csproj.ResolveComReference.cache
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\obj\Debug\game.Form1.resources
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\obj\Debug\game.Properties.Resources.resources
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\obj\Debug\game.csproj.CopyComplete
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\obj\Debug\game.exe
+C:\Users\Vasilina\Desktop\конспекты\ИТИП\2 курс 1 семестр\курсовая\Исходные файлы\obj\Debug\game.pdb
